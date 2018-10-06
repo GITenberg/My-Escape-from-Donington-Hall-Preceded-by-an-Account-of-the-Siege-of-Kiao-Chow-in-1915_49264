@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'My Escape from Donington Hall
 
   Preceded by an Account of the Siege of Kiao-Chow in 1915'
